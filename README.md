@@ -6,4 +6,6 @@ Base_Report(Analysis of Big Five Personality Inventory Data) Completed 5/1/25
 
 Animal Conservation Data (Exploratory Data Analysis of Animal Conservation Data With Short Reports on a Couple Animals) Completed 9/26 
 
-Global Temperature Dataset (Global Temperature Prediction Project)[?] (WIP)
+Global Temperature Dataset (Global Temperature Prediction Project) (WIP)
+
+NBA Analytics/Game Predictor (WIP)
