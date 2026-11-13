@@ -8,7 +8,7 @@ Animal Conservation Data (Exploratory Data Analysis of Animal Conservation Data 
 
 NBA Analytics/Game Predictor (WIP)
 
-# Programming for Data Science Final Project:
+# Animal Conservation and Climate Change Final Project:
 
   Temperature and Co2 Dataset (Global Temperature Prediction Project) Completed 10/27/26
   
