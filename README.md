@@ -11,6 +11,8 @@ NBA Analytics/Game Predictor (WIP)
 # Programming for Data Science Final Project:
 
   Temperature and Co2 Dataset (Global Temperature Prediction Project) Completed 10/27/26
-  Animal Conservation Data and Modeling(Conservation Status Classification Project) Completed 10/27/26
-  Conservation Status and Country Temperatures(Observation of Rising Global Temperatures on Conservation Status) Completed 10/27/26  
+  
+  Animal Conservation Data and Modeling (Conservation Status Classification Project) Completed 10/27/26
+  
+  Conservation Status and Country Temperatures (Observation of Rising Global Temperatures on Conservation Status) Completed 10/27/26  
 
